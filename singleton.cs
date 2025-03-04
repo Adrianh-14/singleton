@@ -3,7 +3,7 @@ class singleton
 
 public String Mensaje;
 
-    private static singleton instance = null!;
+    private static singleton instance = null!; //prueba de commit and push
     protected singleton(){
 this.Mensaje = "hola mundo";
     }
